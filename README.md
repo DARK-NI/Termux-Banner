@@ -19,6 +19,7 @@
 * `Login System By Password`
 * `Animation`
 * `Device Info Showing When Terminal Opened`
+* `Shortcut Key Add Automatically`
 
 
 ### Enjoy All
